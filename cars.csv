@@ -1,0 +1,2 @@
+car_id,timestamp,gear,accelerator_pressed,indicator_left_on,indicator_right_on,traffic_light,intersection,other_vehicle_approaching,pedestrian_crossing,pedestrian_present,current_speed,speed_limit,merge_lane_clear,engine_off
+10,2024-06-16 12:00:00,drive,1,0,1,red,1,0,1,0,40.0,50.0,1,0
